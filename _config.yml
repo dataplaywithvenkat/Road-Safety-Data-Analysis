@@ -1,0 +1,5 @@
+remote_theme: lewismiddleton/cayman-dark
+title: Mercedes Benz Greener Manufacturing
+description: The Mercedes-Benz Greener Manufacturing project is dedicated to revolutionizing the testing process of Mercedes-Benz vehicles. Currently, Daimler, a leading premium car manufacturer, employs an extensive testing system to ensure the safety and reliability of each unique car configuration. However, optimizing testing speed for various feature combinations is a complex task. This project focuses on developing advanced algorithms to predict testing times for different feature permutations, aiming to significantly reduce the time vehicles spend on the test bench. This not only leads to a more efficient manufacturing process but also aligns with Daimler's commitment to sustainability by reducing carbon dioxide emissions. The project involves steps such as data refinement, label encoding, dimensionality reduction, and the application of the XGBoost algorithm to achieve these objectives. The ultimate goal is to contribute to a more streamlined and environmentally conscious production of Mercedes-Benz vehicles.
+gems:
+  - jekyll-seo-tag
