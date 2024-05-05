@@ -91,20 +91,25 @@ These columns were selected based on requirements such as demographic-related da
 
 ## a) Patterns in the Demographics of Casualties
 
+![fig1.1](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig1.1.png)
+
 ### Fig. 1.1
 
 Fig 1.1 illustrates the relationship between casualty severity, sex, and casualty class in accidents. It shows that the maximum number of people who are drivers or riders experience slight injuries, with females accounting for 14,655 and males for 26,938. However, among passengers, a higher number of slight injuries occur among females. In the case of pedestrians, both sexes are almost equally likely to sustain slight injuries.
 
+![fig1.2](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig1.2.png)
 ### Fig. 1.2
 
 Fig 1.2 displays the count of casualties based on age bands. It indicates that the age band of 26 to 35 has the highest number of casualties, with 15,817 individuals involved in accidents. The casualties in the age bands of 36 to 45 and 46 to 55 are nearly the same, around 11,000 each.
 
+![fig1.3](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig1.3.png)
 ### Fig. 1.3
 
 Fig. 1.3 illustrates the relation between accidents that occurred on different road types based on the area (urban or rural) and the sex of the casualty. It shows that urban single carriageway road types have the maximum number of casualties, with around 15,000 females and 23,500 males. The data also suggests that casualties are more likely to occur in urban areas compared to rural areas.
 
 ## b) Patterns Between Local Authorities in Accidents with Killed or Seriously Injured (KSI) Casualties
 
+![fig2.1](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig2.1.png)
 ### Fig 2.1
 
 Fig 2.1 shows the proportion of cases attended by the police at the accident scene. It reveals that 71.07% of cases were attended, 18.84% were left unattended, and 10.08% were self-reported. This implies that 28.94% of cases were not attended by the police. 
@@ -115,24 +120,29 @@ Fig 2.2 depicts the number of fatal and serious cases left unattended on each da
 
 ### Assumption 2:
 
+![fig2.3](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig2.3.png)
 Fig 2.3 shows the distribution of unattended cases based on weather conditions. It indicates that the most unattended cases occurred during 'Fine no high wind' and 'Raining no high wind' conditions, suggesting no correlation between unattended cases and weather condition.
 
 ## c) Patterns in Pedestrians who were KSI Casualties
 
+![fig3.1](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig3.1.png)
 ### Fig. 3.1
 
 Fig 3.1 is a pie chart representing the distribution of casualty classes. It shows that pedestrians accounted for around 24% of casualties, with the majority being serious or fatal.
 
+![fig3.2](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig3.2.png)
 ### Fig. 3.2
 
 Fig 3.2 illustrates the share of fatal and serious casualties among pedestrians. It shows that 94% of reported casualties are serious, while around 6% are fatal.
 
+![fig3.3](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig3.3.png)
 ### Fig. 3.3
 
 Fig 3.3 illustrates the light conditions during serious and fatal casualties. It indicates that most incidents occurred during daylight, followed by darkness with lit lights. Only a small percentage of incidents occurred in darkness with no lighting.
 
 From these findings, it can be inferred that most casualties occurred in daylight, suggesting further investigation into the reasons behind these incidents, such as possible negligence.
 
+![fig3.4](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig3.4.png)
 ## Fig. 3.4
 
 Fig 3.4 illustrates the casualty severity (fatal or serious) based on junction detail and junction control. It suggests that the maximum casualties have occurred at T or staggered junctions where the junction control is a Give way or uncontrolled. It can be inferred that fatal casualties in pedestrians were minimum where there is control, and whenever there is an authorized person or stop sign at the junction control, the number of casualties was minimal. Even though there is an auto traffic signal controller, there were considerable serious casualties that occurred. Based on these findings, it can be concluded that exerting control at a junction reduces the probability of casualties in pedestrians.
