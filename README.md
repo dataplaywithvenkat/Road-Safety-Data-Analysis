@@ -91,7 +91,7 @@ These columns were selected based on requirements such as demographic-related da
 
 ## a) Patterns in the Demographics of Casualties
 
-![fig1.1](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig1_1.png)
+![fig1.1](figures/fig1_1.png)
 
 ### Fig. 1.1
 
