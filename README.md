@@ -135,7 +135,7 @@ Fig 3.1 is a pie chart representing the distribution of casualty classes. It sho
 
 Fig 3.2 illustrates the share of fatal and serious casualties among pedestrians. It shows that 94% of reported casualties are serious, while around 6% are fatal.
 
-![fig3.3](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/fig3.3.png)
+![fig3.3](https://github.com/dataplaywithvenkat/Road-Safety-Data-Analysis/blob/main/figures/Fig3.3.png)
 ### Fig. 3.3
 
 Fig 3.3 illustrates the light conditions during serious and fatal casualties. It indicates that most incidents occurred during daylight, followed by darkness with lit lights. Only a small percentage of incidents occurred in darkness with no lighting.
