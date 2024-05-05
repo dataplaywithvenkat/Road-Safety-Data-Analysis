@@ -6,12 +6,11 @@ Road safety is an ongoing concern for drivers worldwide, leaving an indelible sc
 In this report, we aim to analyze and provide insights into some of these factors based on the STATS19 dataset.
 
 ## Project Team
-| Name                           | Linkedin |
-|--------------------------------|------------|
-| Anand Samuel Gunti            |  |
-| Mayur Shridhar Bhoyar         |  |
-| Pavan Gorantla Venkatachalapathy | |
-| Venkat Gopinath Polamuri      | |
+
+- Venkat Gopinath Polamuri
+- Anand Samuel Gunti
+- Mayur Shridhar Bhoyar
+- Pavan Gorantla Venkatachalapathy 
 
 ## AIM:
 
