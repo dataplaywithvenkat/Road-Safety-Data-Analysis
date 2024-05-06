@@ -7,10 +7,10 @@ In this report, we aim to analyze and provide insights into some of these factor
 
 ## Project Team
 
-- Venkat Gopinath Polamuri
-- Anand Samuel Gunti
-- Mayur Shridhar Bhoyar
-- Pavan Gorantla Venkatachalapathy 
+- Venkat Gopinath Polamuri - [Linkedin](https://www.linkedin.com/in/venkatpolamuri/)
+- Anand Samuel Gunti - [Linkedin](https://www.linkedin.com/in/anandgunti/)
+- Mayur Shridhar Bhoyar  - [Linkedin](https://www.linkedin.com/in/mayur-bhoyar/)
+- Pavan Gorantla Venkatachalapathy - [Linkedin](https://www.linkedin.com/in/pavangorantla/)
 
 ## AIM:
 
