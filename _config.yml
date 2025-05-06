@@ -1,5 +1,5 @@
-remote_theme: lewismiddleton/cayman-dark
-light_mode: true
+remote_theme: minima
+light_mode: false
 title: Road Safety Data Analysis
 description: Patterns in the demographics of casualties, accidents involving killed or seriously injured (KSI) casualties across different local authorities, and pedestrians who were KSI casualties reveal valuable insights into road safety dynamics. Demographic trends such as age and gender disparities, socio-economic factors, and the quality of infrastructure and enforcement play significant roles in determining risk levels. By identifying these patterns, policymakers can develop targeted interventions to improve road safety, such as enhancing infrastructure, implementing stricter regulations, and launching public awareness campaigns, ultimately aiming to reduce casualties and create safer environments for all road users.
 gems:
